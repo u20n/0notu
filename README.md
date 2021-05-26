@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @0notu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning comp sci @ Rutgers
+
+🌱 I’m currently learning comp sci @ Rutgers
 - reach me @uTon_pub on @concord
 
 <!---
