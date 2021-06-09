@@ -1,6 +1,6 @@
+I'm currently working on Concord, a distrubuted messaging system.
 
-🌱 I’m currently learning comp sci @ Rutgers
-- reach me @uTon_pub on @concord
+@0xuton on twitter, <> on Concord/main
 
 <!---
 0notu/0notu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
